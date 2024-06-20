@@ -1,0 +1,105 @@
+D:\Users\1213-3\Documents\2-ИСП\Мелехов\Разработка кода ИС\PR-7.2\PR-7.2\bin\Debug\PR-7.2.exe.config
+D:\Users\1213-3\Documents\2-ИСП\Мелехов\Разработка кода ИС\PR-7.2\PR-7.2\bin\Debug\PR-7.2.exe
+D:\Users\1213-3\Documents\2-ИСП\Мелехов\Разработка кода ИС\PR-7.2\PR-7.2\bin\Debug\PR-7.2.pdb
+D:\Users\1213-3\Documents\2-ИСП\Мелехов\Разработка кода ИС\PR-7.2\PR-7.2\obj\Debug\PR-7.2.csproj.AssemblyReference.cache
+D:\Users\1213-3\Documents\2-ИСП\Мелехов\Разработка кода ИС\PR-7.2\PR-7.2\obj\Debug\MainWindow.g.cs
+D:\Users\1213-3\Documents\2-ИСП\Мелехов\Разработка кода ИС\PR-7.2\PR-7.2\obj\Debug\App.g.cs
+D:\Users\1213-3\Documents\2-ИСП\Мелехов\Разработка кода ИС\PR-7.2\PR-7.2\obj\Debug\PR-7.2_MarkupCompile.cache
+D:\Users\1213-3\Documents\2-ИСП\Мелехов\Разработка кода ИС\PR-7.2\PR-7.2\obj\Debug\PR-7.2_MarkupCompile.lref
+D:\Users\1213-3\Documents\2-ИСП\Мелехов\Разработка кода ИС\PR-7.2\PR-7.2\obj\Debug\MainWindow.baml
+D:\Users\1213-3\Documents\2-ИСП\Мелехов\Разработка кода ИС\PR-7.2\PR-7.2\obj\Debug\PR-7.2.g.resources
+D:\Users\1213-3\Documents\2-ИСП\Мелехов\Разработка кода ИС\PR-7.2\PR-7.2\obj\Debug\PR_7._2.Properties.Resources.resources
+D:\Users\1213-3\Documents\2-ИСП\Мелехов\Разработка кода ИС\PR-7.2\PR-7.2\obj\Debug\PR-7.2.csproj.GenerateResource.cache
+D:\Users\1213-3\Documents\2-ИСП\Мелехов\Разработка кода ИС\PR-7.2\PR-7.2\obj\Debug\PR-7.2.csproj.CoreCompileInputs.cache
+D:\Users\1213-3\Documents\2-ИСП\Мелехов\Разработка кода ИС\PR-7.2\PR-7.2\obj\Debug\PR-7.2.exe
+D:\Users\1213-3\Documents\2-ИСП\Мелехов\Разработка кода ИС\PR-7.2\PR-7.2\obj\Debug\PR-7.2.pdb
+C:\Работа\PR-7.2\PR-7.2\PR-7.2\bin\Debug\PR-7.2.exe.config
+C:\Работа\PR-7.2\PR-7.2\PR-7.2\bin\Debug\PR-7.2.exe
+C:\Работа\PR-7.2\PR-7.2\PR-7.2\bin\Debug\PR-7.2.pdb
+C:\Работа\PR-7.2\PR-7.2\PR-7.2\obj\Debug\PR-7.2.csproj.AssemblyReference.cache
+C:\Работа\PR-7.2\PR-7.2\PR-7.2\obj\Debug\Input.g.cs
+C:\Работа\PR-7.2\PR-7.2\PR-7.2\obj\Debug\MainWindow.g.cs
+C:\Работа\PR-7.2\PR-7.2\PR-7.2\obj\Debug\App.g.cs
+C:\Работа\PR-7.2\PR-7.2\PR-7.2\obj\Debug\PR-7.2_MarkupCompile.cache
+C:\Работа\PR-7.2\PR-7.2\PR-7.2\obj\Debug\PR-7.2_MarkupCompile.lref
+C:\Работа\PR-7.2\PR-7.2\PR-7.2\obj\Debug\MainWindow.baml
+C:\Работа\PR-7.2\PR-7.2\PR-7.2\obj\Debug\Input.baml
+C:\Работа\PR-7.2\PR-7.2\PR-7.2\obj\Debug\PR-7.2.g.resources
+C:\Работа\PR-7.2\PR-7.2\PR-7.2\obj\Debug\PR_7._2.Properties.Resources.resources
+C:\Работа\PR-7.2\PR-7.2\PR-7.2\obj\Debug\PR-7.2.csproj.GenerateResource.cache
+C:\Работа\PR-7.2\PR-7.2\PR-7.2\obj\Debug\PR-7.2.csproj.CoreCompileInputs.cache
+C:\Работа\PR-7.2\PR-7.2\PR-7.2\obj\Debug\PR-7.2.exe
+C:\Работа\PR-7.2\PR-7.2\PR-7.2\obj\Debug\PR-7.2.pdb
+C:\Работа\PR-7.2\PR-7.2\PR-7.2\obj\Debug\Calc.g.cs
+C:\Работа\PR-7.2\PR-7.2\PR-7.2\obj\Debug\Calc.baml
+C:\Работа\PR-7.2\PR-7.2\PR-7.2\obj\Debug\About.g.cs
+C:\Работа\PR-7.2\PR-7.2\PR-7.2\obj\Debug\About.baml
+D:\Users\1213-3\Documents\2-ИСП\Мелехов\Разработка кода ИС\PR-7.2\PR-7.2\obj\Debug\About.g.cs
+D:\Users\1213-3\Documents\2-ИСП\Мелехов\Разработка кода ИС\PR-7.2\PR-7.2\obj\Debug\Calc.g.cs
+D:\Users\1213-3\Documents\2-ИСП\Мелехов\Разработка кода ИС\PR-7.2\PR-7.2\obj\Debug\Input.g.cs
+D:\Users\1213-3\Documents\2-ИСП\Мелехов\Разработка кода ИС\PR-7.2\PR-7.2\obj\Debug\About.baml
+D:\Users\1213-3\Documents\2-ИСП\Мелехов\Разработка кода ИС\PR-7.2\PR-7.2\obj\Debug\Calc.baml
+D:\Users\1213-3\Documents\2-ИСП\Мелехов\Разработка кода ИС\PR-7.2\PR-7.2\obj\Debug\Input.baml
+D:\Users\1213-12\Documents\2-ИСП\Мелехов\7.2\PR-7.2\PR-7.2\obj\Debug\PR-7.2.csproj.AssemblyReference.cache
+D:\Users\1213-12\Documents\2-ИСП\Мелехов\7.2\PR-7.2\PR-7.2\obj\Debug\About.g.cs
+D:\Users\1213-12\Documents\2-ИСП\Мелехов\7.2\PR-7.2\PR-7.2\obj\Debug\Calc.g.cs
+D:\Users\1213-12\Documents\2-ИСП\Мелехов\7.2\PR-7.2\PR-7.2\obj\Debug\Input.g.cs
+D:\Users\1213-12\Documents\2-ИСП\Мелехов\7.2\PR-7.2\PR-7.2\obj\Debug\MainWindow.g.cs
+D:\Users\1213-12\Documents\2-ИСП\Мелехов\7.2\PR-7.2\PR-7.2\obj\Debug\App.g.cs
+D:\Users\1213-12\Documents\2-ИСП\Мелехов\7.2\PR-7.2\PR-7.2\obj\Debug\PR-7.2_MarkupCompile.cache
+D:\Users\1213-12\Documents\2-ИСП\Мелехов\7.2\PR-7.2\PR-7.2\obj\Debug\PR-7.2_MarkupCompile.lref
+D:\Users\1213-12\Documents\2-ИСП\Мелехов\7.2\PR-7.2\PR-7.2\obj\Debug\PR-7.2.exe
+D:\Users\1213-12\Documents\2-ИСП\Мелехов\7.2\PR-7.2\PR-7.2\obj\Debug\PR-7.2.pdb
+D:\Users\1213-12\Documents\2-ИСП\Мелехов\7.2\PR-7.2\PR-7.2\bin\Debug\PR-7.2.exe.config
+D:\Users\1213-12\Documents\2-ИСП\Мелехов\7.2\PR-7.2\PR-7.2\bin\Debug\PR-7.2.exe
+D:\Users\1213-12\Documents\2-ИСП\Мелехов\7.2\PR-7.2\PR-7.2\bin\Debug\PR-7.2.pdb
+D:\Users\1213-12\Documents\2-ИСП\Мелехов\7.2\PR-7.2\PR-7.2\obj\Debug\About.baml
+D:\Users\1213-12\Documents\2-ИСП\Мелехов\7.2\PR-7.2\PR-7.2\obj\Debug\Calc.baml
+D:\Users\1213-12\Documents\2-ИСП\Мелехов\7.2\PR-7.2\PR-7.2\obj\Debug\Input.baml
+D:\Users\1213-12\Documents\2-ИСП\Мелехов\7.2\PR-7.2\PR-7.2\obj\Debug\MainWindow.baml
+D:\Users\1213-12\Documents\2-ИСП\Мелехов\7.2\PR-7.2\PR-7.2\obj\Debug\PR-7.2.g.resources
+D:\Users\1213-12\Documents\2-ИСП\Мелехов\7.2\PR-7.2\PR-7.2\obj\Debug\PR_7._2.Properties.Resources.resources
+D:\Users\1213-12\Documents\2-ИСП\Мелехов\7.2\PR-7.2\PR-7.2\obj\Debug\PR-7.2.csproj.GenerateResource.cache
+D:\Users\1213-12\Documents\2-ИСП\Мелехов\7.2\PR-7.2\PR-7.2\obj\Debug\PR-7.2.csproj.CoreCompileInputs.cache
+C:\Users\79537\source\repos\PR-7.2\7.2\PR-7.2\PR-7.2\bin\Debug\PR-7.2.exe.config
+C:\Users\79537\source\repos\PR-7.2\7.2\PR-7.2\PR-7.2\bin\Debug\PR-7.2.exe
+C:\Users\79537\source\repos\PR-7.2\7.2\PR-7.2\PR-7.2\bin\Debug\PR-7.2.pdb
+C:\Users\79537\source\repos\PR-7.2\7.2\PR-7.2\PR-7.2\obj\Debug\PR-7.2.csproj.AssemblyReference.cache
+C:\Users\79537\source\repos\PR-7.2\7.2\PR-7.2\PR-7.2\obj\Debug\About.g.cs
+C:\Users\79537\source\repos\PR-7.2\7.2\PR-7.2\PR-7.2\obj\Debug\Calc.g.cs
+C:\Users\79537\source\repos\PR-7.2\7.2\PR-7.2\PR-7.2\obj\Debug\Input.g.cs
+C:\Users\79537\source\repos\PR-7.2\7.2\PR-7.2\PR-7.2\obj\Debug\MainWindow.g.cs
+C:\Users\79537\source\repos\PR-7.2\7.2\PR-7.2\PR-7.2\obj\Debug\App.g.cs
+C:\Users\79537\source\repos\PR-7.2\7.2\PR-7.2\PR-7.2\obj\Debug\PR-7.2_MarkupCompile.cache
+C:\Users\79537\source\repos\PR-7.2\7.2\PR-7.2\PR-7.2\obj\Debug\PR-7.2_MarkupCompile.lref
+C:\Users\79537\source\repos\PR-7.2\7.2\PR-7.2\PR-7.2\obj\Debug\About.baml
+C:\Users\79537\source\repos\PR-7.2\7.2\PR-7.2\PR-7.2\obj\Debug\Calc.baml
+C:\Users\79537\source\repos\PR-7.2\7.2\PR-7.2\PR-7.2\obj\Debug\Input.baml
+C:\Users\79537\source\repos\PR-7.2\7.2\PR-7.2\PR-7.2\obj\Debug\MainWindow.baml
+C:\Users\79537\source\repos\PR-7.2\7.2\PR-7.2\PR-7.2\obj\Debug\PR-7.2.g.resources
+C:\Users\79537\source\repos\PR-7.2\7.2\PR-7.2\PR-7.2\obj\Debug\PR_7._2.Properties.Resources.resources
+C:\Users\79537\source\repos\PR-7.2\7.2\PR-7.2\PR-7.2\obj\Debug\PR-7.2.csproj.GenerateResource.cache
+C:\Users\79537\source\repos\PR-7.2\7.2\PR-7.2\PR-7.2\obj\Debug\PR-7.2.csproj.CoreCompileInputs.cache
+C:\Users\79537\source\repos\PR-7.2\7.2\PR-7.2\PR-7.2\obj\Debug\PR-7.2.exe
+C:\Users\79537\source\repos\PR-7.2\7.2\PR-7.2\PR-7.2\obj\Debug\PR-7.2.pdb
+D:\Users\1213-3\Documents\2-ИСП\Мелехов\Разработка кода ИС\PR-7.2\PR-7.2\7.2\PR-7.2\PR-7.2\bin\Debug\PR-7.2.exe.config
+D:\Users\1213-3\Documents\2-ИСП\Мелехов\Разработка кода ИС\PR-7.2\PR-7.2\7.2\PR-7.2\PR-7.2\bin\Debug\PR-7.2.exe
+D:\Users\1213-3\Documents\2-ИСП\Мелехов\Разработка кода ИС\PR-7.2\PR-7.2\7.2\PR-7.2\PR-7.2\bin\Debug\PR-7.2.pdb
+D:\Users\1213-3\Documents\2-ИСП\Мелехов\Разработка кода ИС\PR-7.2\PR-7.2\7.2\PR-7.2\PR-7.2\obj\Debug\PR-7.2.csproj.AssemblyReference.cache
+D:\Users\1213-3\Documents\2-ИСП\Мелехов\Разработка кода ИС\PR-7.2\PR-7.2\7.2\PR-7.2\PR-7.2\obj\Debug\About.g.cs
+D:\Users\1213-3\Documents\2-ИСП\Мелехов\Разработка кода ИС\PR-7.2\PR-7.2\7.2\PR-7.2\PR-7.2\obj\Debug\Calc.g.cs
+D:\Users\1213-3\Documents\2-ИСП\Мелехов\Разработка кода ИС\PR-7.2\PR-7.2\7.2\PR-7.2\PR-7.2\obj\Debug\Input.g.cs
+D:\Users\1213-3\Documents\2-ИСП\Мелехов\Разработка кода ИС\PR-7.2\PR-7.2\7.2\PR-7.2\PR-7.2\obj\Debug\MainWindow.g.cs
+D:\Users\1213-3\Documents\2-ИСП\Мелехов\Разработка кода ИС\PR-7.2\PR-7.2\7.2\PR-7.2\PR-7.2\obj\Debug\App.g.cs
+D:\Users\1213-3\Documents\2-ИСП\Мелехов\Разработка кода ИС\PR-7.2\PR-7.2\7.2\PR-7.2\PR-7.2\obj\Debug\PR-7.2_MarkupCompile.cache
+D:\Users\1213-3\Documents\2-ИСП\Мелехов\Разработка кода ИС\PR-7.2\PR-7.2\7.2\PR-7.2\PR-7.2\obj\Debug\PR-7.2_MarkupCompile.lref
+D:\Users\1213-3\Documents\2-ИСП\Мелехов\Разработка кода ИС\PR-7.2\PR-7.2\7.2\PR-7.2\PR-7.2\obj\Debug\About.baml
+D:\Users\1213-3\Documents\2-ИСП\Мелехов\Разработка кода ИС\PR-7.2\PR-7.2\7.2\PR-7.2\PR-7.2\obj\Debug\Calc.baml
+D:\Users\1213-3\Documents\2-ИСП\Мелехов\Разработка кода ИС\PR-7.2\PR-7.2\7.2\PR-7.2\PR-7.2\obj\Debug\Input.baml
+D:\Users\1213-3\Documents\2-ИСП\Мелехов\Разработка кода ИС\PR-7.2\PR-7.2\7.2\PR-7.2\PR-7.2\obj\Debug\MainWindow.baml
+D:\Users\1213-3\Documents\2-ИСП\Мелехов\Разработка кода ИС\PR-7.2\PR-7.2\7.2\PR-7.2\PR-7.2\obj\Debug\PR-7.2.g.resources
+D:\Users\1213-3\Documents\2-ИСП\Мелехов\Разработка кода ИС\PR-7.2\PR-7.2\7.2\PR-7.2\PR-7.2\obj\Debug\PR_7._2.Properties.Resources.resources
+D:\Users\1213-3\Documents\2-ИСП\Мелехов\Разработка кода ИС\PR-7.2\PR-7.2\7.2\PR-7.2\PR-7.2\obj\Debug\PR-7.2.csproj.GenerateResource.cache
+D:\Users\1213-3\Documents\2-ИСП\Мелехов\Разработка кода ИС\PR-7.2\PR-7.2\7.2\PR-7.2\PR-7.2\obj\Debug\PR-7.2.csproj.CoreCompileInputs.cache
+D:\Users\1213-3\Documents\2-ИСП\Мелехов\Разработка кода ИС\PR-7.2\PR-7.2\7.2\PR-7.2\PR-7.2\obj\Debug\PR-7.2.exe
+D:\Users\1213-3\Documents\2-ИСП\Мелехов\Разработка кода ИС\PR-7.2\PR-7.2\7.2\PR-7.2\PR-7.2\obj\Debug\PR-7.2.pdb
